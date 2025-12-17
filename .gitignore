@@ -1,0 +1,8 @@
+ai-env/
+ryu-env/
+ai/datasets/
+ai/model_trainer_new/
+__pycache__/
+*.pyc
+*.npy
+*.csv
